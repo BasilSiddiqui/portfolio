@@ -17,5 +17,5 @@
 - Worked with company's data which included income, attendance, designation, overtime & other various data.
 - Created reports on each category to call out important insights that may concern a company & the managers.
 ### Managing restaurants database
-- Worked with multiple restaurants' data in different locations which included menu items, prices, revenue & profit.
-- Published monhtly reports of each restaurant regarding trends in each food category and forecasts.
+- Worked with multiple restaurants' data in different locations which included menu item stocks & prices.
+- Published monhtly reports of each restaurant regarding trends in each food category, forecasted revenue & profit.
