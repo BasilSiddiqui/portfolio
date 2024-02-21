@@ -13,3 +13,6 @@
 - Created multiple insights & reports as per clients' likings.
 
 ### Projects
+### Reports of employees in client's firms
+- Worked with company's data which included income, attendance, designation, overtime & other various data.
+- Created reports on each category to call out important insights that may concern a company & the managers.
