@@ -13,9 +13,14 @@
 - Created multiple insights & reports as per clients' likings.
 
 ## Projects
-### Reports of employees in client's firms
+### Reports of Employees in Client's Firms
 - Worked with company's data which included income, attendance, designation, overtime & other various data.
 - Created reports on each category to call out important insights that may concern a company & the managers.
-### Managing restaurants database
+
+### Managing Restaurants' Database
 - Worked with multiple restaurants' data in different locations which included menu item stocks & prices.
 - Published monhtly reports of each restaurant regarding trends in each food category, forecasted revenue & profit.
+
+### Bank Reports
+- Was granted access to hundreds of thousands of bank transfers with different banks' credit & debit cards.
+- Published reports on the different cards & banks highlighting trends.
