@@ -3,7 +3,8 @@
 ### Technichal Skills: Python, Excel, Queries, Power bi
 
 ### Education
-Statistical Data Science, Bsc
+- Advanced Levels in Mathematics, Economics & Psycholgoy | CAIE 
+- Bsc in Statistical Data Science | Heriot Watt University
 
 ### Work Experience
 
