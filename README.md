@@ -6,6 +6,8 @@
 - Advanced Levels in Mathematics, Economics & Psycholgoy | CAIE 
 - Bsc in Statistical Data Science | Heriot Watt University
 
+![Education](education.png)
+
 ## Work Experience
 **Data Analyst @ Sidra Salman & CO. Chartered Accountants (December 2023 - Present)**
 - Worked with raw data in the industry. Data such as multiple restaurant accounts, wages of companies and bank transfers.
