@@ -34,8 +34,8 @@
 ![creditcard](creditcard.png)
 
 ## Example Work
-![powerbi1](Powerbi.png)
+![powerbi1](powerbi3.png)
 ![excel1](excel.png)
 ![excel2](excel2.png)
 ![excel3](excel3.png)
-![powerbi2](Powerbi2.png)
+![powerbi2](powerbi2.png)
