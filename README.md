@@ -27,6 +27,13 @@
 
 ![Restaurant](restaurant.png)
 
+## Example Work
+![powerbi1](Powerbi.png)
+![excel1](excel.png)
+![excel2](excel2.png)
+![excel3](excel3.png)
+![powerbi2](Powerbi2.png)
+
 ### Bank Reports
 - Was granted access to hundreds of thousands of bank transfers with different banks' credit & debit cards.
 - Published reports on the different cards & banks highlighting trends.
