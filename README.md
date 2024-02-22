@@ -34,6 +34,8 @@
 ![creditcard](creditcard.png)
 
 ## Example Work
+- Every excel sheet is fully automated, which requires no addition manual handling.
+- Power bi reports are fully interactional.
 ![powerbi1](powerbi3.png)
 ![excel1](excel.png)
 ![excel2](excel2.png)
